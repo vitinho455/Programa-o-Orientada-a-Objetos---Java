@@ -11,5 +11,5 @@ Atividades para fins acadêmicos, aprendizado e fixação do conteúdo abordado 
 - Java
 - Eclipse | IntelliJ
 - SpringBoot *(Futuramente)
-- Mongodb
+- Mongodb *(Futuramente)
 
